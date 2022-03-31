@@ -2,7 +2,7 @@
 ## Welcome! 👋
 
 - 💻 I’m currently working as Information Technology Technician at [Spassu Tecnologia](https://www.spassu.com.br/)
-- 🚀 I am aspiring for Spring and Java programming.
+- 🚀 I am aspiring for Java programming and your frameworks.
 - 🌎 I'm from Rio de Janeiro - RJ - Brazil
 - 🎸 I love music Jazz  e Blues, my favorite artists are The BB King, Jonh Lee and others.
 -  😅 Fun fact: I love fishing.
